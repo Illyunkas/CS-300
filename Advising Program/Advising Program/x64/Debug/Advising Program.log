@@ -1,0 +1,5 @@
+﻿  Advising Program.cpp
+C:\Users\danie\iCloudDrive\Desktop\School\CS 300\Module 7\Advising Program\Advising Program\Advising Program.cpp(48,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\iCloudDrive\Desktop\School\CS 300\Module 7\Advising Program\Advising Program\Advising Program.cpp(52,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\iCloudDrive\Desktop\School\CS 300\Module 7\Advising Program\Advising Program\Advising Program.cpp(66,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Advising Program.vcxproj -> C:\Users\danie\iCloudDrive\Desktop\School\CS 300\Module 7\Advising Program\x64\Debug\Advising Program.exe
